@@ -8,6 +8,7 @@ public class Runner {
 		list.add(10);
 		list.add(101);
 		list.add(1001);
+		list.add(1003);
 		list.deleteAt(0);
 		list.addAtStart(30);
 		list.addAtStart(300);
