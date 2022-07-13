@@ -13,7 +13,7 @@ public class Runner {
 		list.addAtStart(30);
 		list.addAtStart(300);
 		list.addAtStart(40);
-		list.addAtStart(50);
+				
 		//list.addAtPosition(0,911);
 		list.deleteAt(0);
 		list.display();
