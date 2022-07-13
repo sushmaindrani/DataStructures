@@ -15,7 +15,7 @@ public class Runner {
 		list.addAtStart(40);
 				
 		//list.addAtPosition(0,911);
-		list.deleteAt(3);
+		list.deleteAt(1);
 		list.display();
 	}
 
